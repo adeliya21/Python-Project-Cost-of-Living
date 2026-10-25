@@ -40,9 +40,9 @@ Variables used in analysis: 11
 Geographic scope: Cities worldwide
 
 ## Key Skills Demonstrated
-Data wrangling and preprocessing
-Exploratory data analysis and visualization
-Statistical hypothesis testing
-Linear and regularized regression
-Feature analysis and model comparison
-Data-driven interpretation of global economic indicators
+- Data wrangling and preprocessing
+- Exploratory data analysis and visualization
+- Statistical hypothesis testing
+- Linear and regularized regression
+- Feature analysis and model comparison
+- Data-driven interpretation of global economic indicators
