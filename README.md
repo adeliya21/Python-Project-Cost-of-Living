@@ -30,9 +30,13 @@ The dataset includes 4,873 observations across nearly 5,000 cities and 59 variab
 
 ## Dataset
 Source: Global Cost of Living — Kaggle (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
+
 Observations: 4,873
+
 Available variables: 59
+
 Variables used in analysis: 11
+
 Geographic scope: Cities worldwide
 
 ## Key Skills Demonstrated
